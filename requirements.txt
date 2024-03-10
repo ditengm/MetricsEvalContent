@@ -1,0 +1,13 @@
+re
+unicodedata
+inflect
+nltk
+scikit-learn
+numpy
+torch
+transformers
+pandas
+tqdm
+warnings
+emoji
+contractions
